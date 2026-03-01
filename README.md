@@ -97,6 +97,7 @@ This project was initially developed to help with the creator's system-wide prac
 
 ## Features
 
+
 - **Multi-layout support**: The following layouts are currently natively supported.
   <details>
   <summary>Layouts</summary>
